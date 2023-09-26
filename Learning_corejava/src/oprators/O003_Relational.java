@@ -1,0 +1,17 @@
+package oprators;
+
+public class O003_Relational {
+	public static void main(String[] args) {
+		
+		
+		int a = 20;
+		int b = 60;
+		int c = 56;
+		
+		System.out.println(a>b);
+		System.out.println(a<b);
+		System.out.println(a==c);
+		System.out.println(a!=b);
+		
+	}
+}

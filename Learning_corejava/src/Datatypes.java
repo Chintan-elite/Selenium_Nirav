@@ -7,7 +7,7 @@ public class Datatypes {
 		
 		short s = 32767;
 		
-		int i = 56565656;
+		int i = 214748364;
 		
 		long l = 44655556;
 		

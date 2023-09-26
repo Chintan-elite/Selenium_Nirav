@@ -91,9 +91,6 @@ Unary : post++, post--, ++pre, --pre
 Arithmatic : 
 +, -, *, /, %
 
-Relational : 
-<, >, <=, >=, ==, !=
-
 
 
 
